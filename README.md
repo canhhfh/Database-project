@@ -12,6 +12,5 @@
 	* Xử lý và thiết kế Back-end và Front-end phần Admin
 	* Phân tích và thiết kế hệ thống
 
- **Website: [TCD Book](https://www.tcdbook.studio)**
 
  ![](/assets/photos/PR.png) 
